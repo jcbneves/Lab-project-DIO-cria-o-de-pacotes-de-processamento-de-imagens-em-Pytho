@@ -1,9 +1,11 @@
 # Projeto: Descomplicando a criação de pacotes de processamento de imagens em Python (DIO)
 ## Autora do Projeto: Karina Kato
 
-### Descrição
+### Descrição do projeto
 
 Neste projeto aprendemos a criar um pacote de processamento de imagens em Python.
+
+### Explicação sobre o pacote
 
 O pacote "package_image_processing_DiO" é usado para:
 
