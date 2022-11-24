@@ -9,8 +9,8 @@ with open("requirements.txt") as f:
 setup(
     name="package_image_processing_DiO",
     version="0.0.2",
-    author=" jonathansilva13",
-    author_email="jonathancristovao13@gmail.com",
+    author=" jcbneves",
+    author_email="jcbneves@gmail.com",
     description="Test version Image processing package using skimage. This project belongs to Karina Tiemi Kato.",
     long_description=page_description,
     long_description_content_type="text/markdown",
