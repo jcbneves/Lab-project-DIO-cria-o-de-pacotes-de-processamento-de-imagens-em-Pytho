@@ -1,2 +1,20 @@
-# Descomplicando a criação de pacotes de processamento de imagens em Python (DiO)
-Neste projeto aprendemos a criar o primeiro pacote de processamento de imagens em Python e disponibilizá-lo no repositório Pypi. Isso possibilita reutilizá-lo facilmente e compartilhá-lo com outras pessoas. A especialista também mostrou um exemplo de pacote para processamento de imagens.
+# Projeto: Descomplicando a criação de pacotes de processamento de imagens em Python (DIO)
+## Autora do Projeto: Karina Kato
+
+### Descrição
+
+Neste projeto aprendemos a criar um pacote de processamento de imagens em Python.
+
+O pacote "package_image_processing_DiO" é usado para:
+
+- Módulo "Processing":
+  - Correspondência de histograma;
+  - Similaridade estrutural;
+  - Redimensionar imagem;
+
+- Módulo "Utils":
+  - Ler imagem;
+  - Salvar imagem;
+  - Plotar imagem;
+  - Resultado do gráfico;
+  - Plotar histograma;
