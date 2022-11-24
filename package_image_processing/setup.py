@@ -14,7 +14,7 @@ setup(
     description="Test version Image processing package using skimage. This project belongs to Karina Tiemi Kato.",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/JonathanCristovao/Bootcamp-Unimed-BH-Ciencia-de-Dados-DiO/tree/main/python-para-cientista-de-dados/package_image_processing",
+    url="https://github.com/jcbneves/Lab-project-DIO-cria-o-de-pacotes-de-processamento-de-imagens-em-Pytho.git",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.5',
