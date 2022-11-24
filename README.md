@@ -10,13 +10,13 @@ Neste projeto aprendemos a criar um pacote de processamento de imagens em Python
 O pacote "package_image_processing_DiO" é usado para:
 
 - Módulo "Processing":
-  - Correspondência de histograma;
-  - Similaridade estrutural;
-  - Redimensionar imagem;
+  * Correspondência de histograma.
+  * Similaridade estrutural.
+  * Redimensionar imagem.
 
 - Módulo "Utils":
-  - Ler imagem;
-  - Salvar imagem;
-  - Plotar imagem;
-  - Resultado do gráfico;
-  - Plotar histograma;
+  * Ler imagem.
+  * Salvar imagem.
+  * Plotar imagem.
+  * Resultado do gráfico.
+  * Plotar histograma.
